@@ -56,6 +56,6 @@ This pipeline ensures reproducibility and provides a strong foundation for downs
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/Meti2000-ke/ethiopia-tb-genomic-data-curation-ahri-project.git
+
 cd ethiopia-tb-genomic-data-curation-ahri-project
