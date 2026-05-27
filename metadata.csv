@@ -1,0 +1,7 @@
+sample_id,forward_read,reverse_read,country,study_source,platform
+SRR23497957,SRR23497957_1.fastq,SRR23497957_2.fastq,Ethiopia,unknown,Illumina
+SRR23497958,SRR23497958_1.fastq,SRR23497958_2.fastq,Ethiopia,unknown,Illumina
+SRR23497959,SRR23497959_1.fastq,SRR23497959_2.fastq,Ethiopia,unknown,Illumina
+SRR23497960,SRR23497960_1.fastq,SRR23497960_2.fastq,Ethiopia,unknown,Illumina
+SRR26800428,SRR26800428_1.fastq,SRR26800428_2.fastq,Ethiopia,unknown,Illumina
+SRR26800489,SRR26800489_1.fastq,SRR26800489_2.fastq,Ethiopia,unknown,Illumina
